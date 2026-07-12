@@ -1,0 +1,15 @@
+{
+  "name": "meal-planner-import-server",
+  "version": "1.0.0",
+  "description": "Recipe website-import server for Kayla's Family Meal Planner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
